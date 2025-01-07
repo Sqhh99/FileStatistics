@@ -3,5 +3,6 @@
 QT版本为6.6，构建工具为qmake
 
 ## 运行示例
-![image](https://github.com/user-attachments/assets/f1280b39-3c26-420d-bdcb-d0c0e26d542c)
+![image](https://github.com/user-attachments/assets/69b86c18-5679-4337-b0cd-8837859ed284)
+
 
